@@ -20,7 +20,7 @@
                 <key>background</key>
                 <string>#0E0E0C</string>
                 <key>caret</key>
-                <string>#FFF1A0FF</string>
+                <string>#6EFF00FF</string>
                 <key>foreground</key>
                 <string>#f8f8f2</string>
                 <key>guide</key>
@@ -30,13 +30,13 @@
                 <key>invisibles</key>
                 <string>#5B6475</string>
                 <key>lineHighlight</key>
-                <string>#B9E2FF0D</string>
+                <string>#EBEEFF18</string>
                 <key>selection</key>
-                <string>#1E2647FF</string>
+                <string>#282D38FF</string>
                 <key>selectionBorder</key>
-                <string>#4A557FFF</string>
+                <string>#B9CDD4FF</string>
                 <key>stackGuide</key>
-                <string>#40E6CB90</string>
+                <string>#9AFFECF0</string>
             </dict>
         </dict>
         <dict>
