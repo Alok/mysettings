@@ -1,0 +1,17 @@
+apache-spark
+bash-completion
+fish
+gdbm
+git
+hadoop
+heroku
+maven
+node
+openssl
+pcre2
+python
+readline
+sbt
+scala
+sqlite
+ssh-copy-id
